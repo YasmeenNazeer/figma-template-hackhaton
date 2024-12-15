@@ -28,7 +28,7 @@ export const cars = [
     fuel: "70L",
     transmission: "Manual",
     capacity: "2 People",
-    imageUrl: "/car3.svg"
+    imageUrl: "/Car3.svg"
  
 },
 {
@@ -56,7 +56,7 @@ export  const car2=[
         fuel: "70L",
         transmission: "Manual",
         capacity: "6 People",
-        imageUrl: "/car01.png"
+        imageUrl: "/Car01.png"
 
 
 },
@@ -81,7 +81,7 @@ export  const car2=[
     fuel: "90L",
     transmission: "Manual",
     capacity: "6 People",
-    imageUrl: "/Car03.png"
+    imageUrl: "/Car3.svg"
 
 
 },
@@ -188,7 +188,7 @@ export const car3=[
     fuel: "70L",
     transmission: "Manual",
     capacity: "2 People",
-    imageUrl: "/car3.svg"
+    imageUrl: "/Car3.svg"
  
 },
 
@@ -223,7 +223,7 @@ export const car3=[
     fuel: "90L",
     transmission: "Manual",
     capacity: "6 People",
-    imageUrl: "/Car03.png"
+    imageUrl: "/Car3.svg"
 
 
 },
@@ -297,7 +297,7 @@ export const car4= [
             fuel: "70L",
             transmission: "Manual",
             capacity: "2 People",
-            imageUrl: "/car3.svg"
+            imageUrl: "/Car3.svg"
          
         },
 
@@ -369,7 +369,7 @@ export const car5 =[
         fuel: "70L",
         transmission: "Manual",
         capacity: "2 People",
-        imageUrl: "/car3.svg"
+        imageUrl: "/Car3.svg"
      
     },
     {
@@ -402,7 +402,7 @@ export const car5 =[
         fuel: "90L",
         transmission: "Manual",
         capacity: "6 People",
-        imageUrl: "/Car03.png"
+        imageUrl: "/Car3.svg"
     
     
     },
